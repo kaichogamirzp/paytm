@@ -15,7 +15,7 @@ paytmParams["ORDERID"] = "C8bMQGQ7XaZHT6"
 
 # Generate checksum by parameters we have
 # Find your Merchant Key in your Paytm Dashboard at https://dashboard.paytm.com/next/apikeys
-checksum = checksum.generate_checksum(paytmParams, "@NX%Krpzb5zS@oRV")
+checksum = checksum.generate_checksum(paytmParams, "@@oRV")
 
 # put generated checksum value here
 paytmParams["CHECKSUMHASH"] = checksum
