@@ -24,7 +24,7 @@ paytmParams["body"] = {
     "requestType":"NATIVE",
 
     # on completion of transaction, we will send you the response on this URL
-    "cardInfo" : "|4280902033766247|527|062023",
+    "cardInfo" : "|XXX|527|XXX",
 
     # Order Transaction Amount here
 }
