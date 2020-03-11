@@ -1,0 +1,15 @@
+{
+    "head": {
+        "requestId": null,
+        "responseTimestamp": "1579839819530",
+        "version": "v1"
+    },
+    "body": {
+        "extraParamsMap": null,
+        "resultInfo": {
+            "resultStatus": "F",
+            "resultCode": "2006",
+            "resultMsg": "Mid is invalid"
+        }
+    }
+}

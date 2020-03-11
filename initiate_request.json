@@ -1,0 +1,19 @@
+{
+    "body": {
+        "callbackUrl": "https://merchant.com/callback/",
+        "mid": "nIbkIl69637908912425",
+        "orderId": "C8bMQGQ7XaZHT6",
+        "requestType": "Payment",
+        "txnAmount": {
+            "currency": "INR",
+            "value": "30"
+        },
+        "userInfo": {
+            "custId": "random_attempt_id"
+        },
+        "websiteName": "WEBSTAGING"
+    },
+    "head": {
+        "signature": "E32M0I0Bbki60deFo44fs8jMVWiCfFjWL6UE+sBYTj8ItgcLB8eNbmbcN4kofL1XcA5xxZyUnTeWVlUvcJMdnAJbzq845ujyo5iYEizSZ8g="
+    }
+}
